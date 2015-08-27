@@ -8,7 +8,8 @@
   "module": "plugins/datasource/blueflood/datasource",
 
   "partials": {
-    "config": "app/plugins/datasource/blueflood/partials/config.html"
+    "config": "app/plugins/datasource/blueflood/partials/config.html",
+    "annotations": "app/plugins/datasource/blueflood/partials/annotations.editor.html"
   },
 
   "username": "guest",

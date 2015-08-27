@@ -1,0 +1,22 @@
+{
+  "pluginType": "datasource",
+  "name": "Blueflood",
+
+  "type": "blueflood",
+  "serviceName": "BluefloodDatasource",
+
+  "module": "plugins/datasource/blueflood/datasource",
+
+  "partials": {
+    "config": "app/plugins/datasource/blueflood/partials/config.html"
+  },
+
+  "username": "guest",
+  "password": "",
+
+  "trends": false,
+  "trendsFrom": "7d",
+
+  "metrics": false,
+  "annotations": true
+}
